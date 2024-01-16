@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4407069 */
+  src: url('iconfont.woff2?t=1704941470274') format('woff2'),
+       url('iconfont.woff?t=1704941470274') format('woff'),
+       url('iconfont.ttf?t=1704941470274') format('truetype');
+}
+
+[class^="el-icon-third"], 
+[class*=" el-icon-third"]/*这里有空格*/
+
+{ 
+font-family: "iconfont" !important;
+font-size: 16px;
+font-style: normal;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-thirdzhuce:before {
+  content: "\e683";
+}
+
+.el-icon-thirddenglu:before {
+  content: "\e653";
+}
+
+.el-icon-thirdditu_diqiu_o:before {
+  content: "\ebbb";
+}
+
